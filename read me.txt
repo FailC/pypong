@@ -1,2 +1,0 @@
-Yo just extract this file somwhere and run the python file, 
-all the other files should be in the same folder than the script 
