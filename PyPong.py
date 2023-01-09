@@ -91,7 +91,7 @@ class Score(pygame.sprite.DirtySprite):
 		self.rect = self.image.get_rect(center = (self.x, self.y))
 		self.dirty = 1 
 
-#ball class (spielball)
+
 class Ball(pygame.sprite.DirtySprite):
 
 	def __init__(self) -> None:
