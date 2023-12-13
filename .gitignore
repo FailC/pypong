@@ -1,0 +1,12 @@
+/bin 
+/folder
+/include 
+/lib 
+/lib64
+/control_circle.py
+/detect_gpio.py
+/hellopygame.py
+/ip_adress
+/pin_belegung
+/projectnotes
+/pyvenv.cfg
