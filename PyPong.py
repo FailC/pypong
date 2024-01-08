@@ -192,14 +192,14 @@ def main():
 			if P1.score == 9:
 				P1.score = 0
 				P2.score = 0 
-				playball.update(2)
+			playball.update(2)
 
 		if playball.rect.left < -500:
 			P2.score += 1 
 			if P2.score == 9:
 				P2.score = 0 
 				P1.score = 0 
-				playball.update(1)
+			playball.update(1)
 
 		P1.move()
 		P2.move()
